@@ -160,7 +160,7 @@ p {
 /* Footer */
 
 .page-footer {
-    background-image: url(resources/background/footer-cta-flipped.png);
+    background-image: url(./resources/background/footer-cta-flipped.png);
     background-position: right;
     background-repeat: no-repeat;
     background-size: 100%;
