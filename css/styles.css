@@ -65,7 +65,7 @@ p {
     padding-top: 2em;
     padding-bottom: 2em;
     margin-bottom: 0;
-    background-image: url(/Landing_page/resources/background/footer-cta-flipped.png), url(/Landing_page/resources/background/footer-cta-flipped.png);
+    background-image: url(resources/background/footer-cta-flipped.png), url(resources/background/footer-cta-flipped.png);
     background-repeat: no-repeat, no-repeat;
     background-size: 100%;
     background-position-y: top, bottom;
@@ -87,7 +87,7 @@ p {
     margin-top: 0;
     margin-bottom: 0;
 
-    background-image: url(/Landing_page/resources/background/bg-graphic_teal-left.png);
+    background-image: url(resources/background/bg-graphic_teal-left.png);
     background-position: left;
     background-repeat: no-repeat;
     background-size: 800px;
@@ -116,7 +116,7 @@ p {
     padding-top: 2em !important;
     margin-top: 0;
     margin-bottom: 0;
-    background: url(/Landing_page/resources/background/bg-graphic_teal-left.png);
+    background: url(resources/background/bg-graphic_teal-left.png);
     background-repeat: no-repeat;
     background-size: 760px;
     background-color: #fff;
@@ -138,7 +138,7 @@ p {
 
 #contact-page-body {
     background-color: rgb(206, 240, 245);
-    background-image: url(/Landing_page/resources/background/bg-graphic_teal-left.png);
+    background-image: url(resources/background/bg-graphic_teal-left.png);
     background-position: right;
     background-repeat: repeat-y;
     background-size: 900px;
@@ -160,7 +160,7 @@ p {
 /* Footer */
 
 .page-footer {
-    background-image: url(/Landing_page/resources/background/footer-cta-flipped.png);
+    background-image: url(resources/background/footer-cta-flipped.png);
     background-position: right;
     background-repeat: no-repeat;
     background-size: 100%;
